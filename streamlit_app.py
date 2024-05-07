@@ -1,6 +1,6 @@
-import streamlit as st # 导入streamlitas st
-import pandas as pd # 导入 pandasas pd
- 
+import streamlit as st
+import pandas as pd
+
 st.write("""
 # My first app
 Hello *world!*
